@@ -29,10 +29,11 @@ allowing you to showcase your personality and taste whether you are on the subwa
 
 ```
 ./examples/
-├── Animation                    #  Transient animation
-├── Display-No touch version     #  Clock dial/Digital dial/Rotating Astronaut clock weather ornament
-├── Display-Touch version        #  Clock dial/Digital dial/Rotating Astronaut clock weather ornament
-├── PixelBit_Dino_Game_esp32     #  Dinosaur game
+├── Animation                          #  Transient animation
+├── Display-No touch version           #  Clock dial/Digital dial/Rotating Astronaut clock weather ornament
+├── Display-Touch version              #  Clock dial/Digital dial/Rotating Astronaut clock weather ornament
+├── Touch_PixelBit_Dino_Game_esp32     #  Click the screen to start Dinosaur game
+├── No_Touch_PixelBit_Dino_Game_esp32  #  Press the "BOOT" button to start Dinosaur game
 ```
 ## 3】Arduino IDE Manual installation
 1. Install [Arduino IDE](https://www.arduino.cc/en/software)
