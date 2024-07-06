@@ -37,7 +37,7 @@ allowing you to showcase your personality and taste whether you are on the subwa
 ```
 ## 3】Arduino IDE Manual installation
 1. Install [Arduino IDE](https://www.arduino.cc/en/software)
-2. Install [Arduino ESP32 V 2.0.5 or above and below V3.0](https://docs.espressif.com/projects/arduino-esp32/en/latest/)
+2. Install [Arduino ESP32 V 2.0.5 or above and below V2.0.13](https://docs.espressif.com/projects/arduino-esp32/en/latest/)
 3. Download  , move to Arduino library folder (e.g. D:\Documents\Arduino\libraries)
 ![](image/library.png)
 
