@@ -1,7 +1,7 @@
 <h1 align = "center"> ❤ESP32-C3 1.69inch Round LCD  TouchScreen ST7789 LVGL Astronaut weather Clock Watch MINITV Buzzer
  ❤</h1>
 
-## 】For complete information please see:[https://spotpear.com/](https://spotpear.com/wiki/ESP32-C3-Ornament-Trinket-LVGL-Astronaut-Clock-Watch-MINI-TV-1.69inch-Round-LCD-TouchScreen-ST7789-240x280.html)
+## 】For complete information please see:[ESP32-C3-1.69inch LCD ST7789 User Guide](https://spotpear.com/wiki/ESP32-C3-Ornament-Trinket-LVGL-Astronaut-Clock-Watch-MINI-TV-1.69inch-Round-LCD-TouchScreen-ST7789-240x280.html)
 
 ## 】Description
 
